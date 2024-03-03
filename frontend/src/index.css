@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* background image */
+.HOME {
+  height: 90vh;
+  background: url(./img/self\ defense.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.AddProduct {
+  height: 20vh;
+  background: url(./img/high-kick-martial-arts.jpg) no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+.profil {
+
+  background-image: url(./img/shaolin.jpg);
+  background-size: cover;
+}
+.register {
+  height: 20vh;
+  background: url(./img/artstation.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.login {
+  height: 20vh;
+  background: url(./img/shaolin.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.product {
+  background-image: url(./img/shaolin.jpg);
+  background-size: cover;
+}
+h1 {
+  color: #e9e6e6;
+  font-family: cursive;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+  text-shadow: 2px 2px 4px rgba #439696b9;
+}
+h2 {
+  color: silver;
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bolder;
+  font-style: oblique;
+  display: block;
+}
+h3 {
+  color: silver;
+  font-family: cursive;
+  font-size: larger;
+  font-weight: bolder;
+  font-style: oblique;
+  display: block;
+}
+input {
+  width: 20%;
+  height: 5%;
+}
+.bloc {
+  display: flexbox;
+  justify-content: center;
+  background: url(./img/wushu.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+label {
+  color: bisque;
+}
